@@ -10,7 +10,7 @@ Group: SE-2512
 Bank options: deposit, withdraw, request new account, pay bill.
 
 ### 
-![Task 1](src/screens/bank - task1.png)
+![Task 1](src/screens/bank-task1.png)
 
 ---
 
@@ -26,7 +26,7 @@ Adds money to the specified user’s account
 Stores and shows transaction history
 
 ### 
-![Task 3](src/screens/task3.png)
+![Task 3](src/screens/transaction-task3.png)
 
 ---
 
@@ -34,7 +34,7 @@ Stores and shows transaction history
 Shows bill payment queue
 
 ###
-![Task 4](src/screens/task4.png)
+![Task 4](src/screens/bills-task4.png)
 
 ---
 
@@ -57,7 +57,7 @@ ATM interface: shows user balance and allows withdrawal
 Main menu for choosing Bank, ATM, Admin, or Exit
 
 ### 
-![Part 3](src/screens/task7.png)
+![Part 3](src/screens/menu.png)
 
 ---
 
