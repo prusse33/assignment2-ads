@@ -10,7 +10,7 @@ Group: SE-2512
 Bank options: deposit, withdraw, request new account, pay bill.
 
 ### 
-![Task 1](src/screens/task1.png)
+![Task 1](src/screens/bank-task1.png)
 
 ---
 
